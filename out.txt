@@ -1,0 +1,17 @@
+HQ
+  HR
+    Occupational Health
+    Training
+  Finance
+  IT
+    IT Security
+    IT Maintenance
+    Research
+    Admin
+  PR
+    Marketing
+    Reception
+    Call centre
+    Customer Service
+  Security
+  Legal

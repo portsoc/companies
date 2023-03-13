@@ -1,0 +1,17 @@
+HQ
+HR reports to HQ
+Finance reports to HQ
+IT reports to HQ
+IT Security reports to IT
+IT Maintenance reports to IT
+Marketing reports to PR
+PR reports to HQ
+Research reports to IT
+Customer Service reports to PR
+Admin reports to IT
+Occupational Health reports to HR
+Training reports to HR
+Reception reports to PR
+Call centre reports to PR
+Security reports to HQ
+Legal reports to HQ
